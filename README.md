@@ -10,9 +10,9 @@ Get in Touch
 
 LinkedIn: Your LinkedIn Profile
 
-Twitter: Your Twitter Handle
+Twitter: https://x.com/KumarSamarth_
 
-Email: your.email@example.com
+Email: officialcode07@gmail.com
 
 Feel free to connect with me if you have any questions, suggestions, or collaboration ideas. I'm always excited to discuss new projects and opportunities in the field of Machine Learning!
 <!---
